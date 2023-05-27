@@ -1,0 +1,19 @@
+{
+  "name": "dinosaur_logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticiadedeus/oop_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leticiadedeus/oop_learning/issues"
+  },
+  "homepage": "https://github.com/leticiadedeus/oop_learning#readme"
+}
