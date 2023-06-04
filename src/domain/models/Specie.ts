@@ -3,6 +3,7 @@ import { Entity } from '../../shared/domain/Entity'
 export interface SpecieProps {
     colloquialName: string
     scientificName: string
+    habitat: string
 }
 
 export class Specie extends Entity<SpecieProps> {
